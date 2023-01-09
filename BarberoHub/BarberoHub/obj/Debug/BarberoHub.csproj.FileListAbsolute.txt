@@ -1,0 +1,10 @@
+D:\Codes\BarberoHub\BarberoHub\bin\Debug\BarberoHub.exe.config
+D:\Codes\BarberoHub\BarberoHub\bin\Debug\BarberoHub.exe
+D:\Codes\BarberoHub\BarberoHub\bin\Debug\BarberoHub.pdb
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.csproj.AssemblyReference.cache
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.Properties.Resources.resources
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.csproj.GenerateResource.cache
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.csproj.CoreCompileInputs.cache
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.exe
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.pdb
+D:\Codes\BarberoHub\BarberoHub\obj\Debug\BarberoHub.Form1.resources
